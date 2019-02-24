@@ -1,41 +1,29 @@
 ---
 templateKey: 'index-page'
-title: 'Market research with a conscience'
+title: Not Just Making Up The Numbers
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Something about society
+heading: Numbers that never live
+subheading: Some fancy slogan of Isabel's liking
 description: >-
-  A very short description of the uniqueness of this site in 4 lines of text. A very short description of the uniqueness of this site in 4 lines of text. A very short description of the uniqueness of this site in 4 lines of text or about the blog posts below
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra tortor tincidunt, tincidunt odio sed, ullamcorper leo. Donec dignissim sapien vel gravida faucibus. Aliquam erat volutpat. Nulla facilisi. Mauris hendrerit at augue aliquam ultrices. Donec quis augue et lectus iaculis scelerisque. Nam id vehicula est. In vel ipsum eget eros fringilla ornare at placerat est. In hac habitasse platea dictumst. Donec bibendum eu felis et scelerisque.
 mainpitch:
-  title: This is the Main Pitch. Answers to Why This website
+  title: This is the Main Pitch.
   description: >
-    You would navigate this website becuase it is awesome in 4 lines of text. You would navigate this website becuase it is awesome in 4 lines of text. You would navigate this website becuase it is awesome in 4 lines of text. You would navigate this website becuase it is awesome in 4 lines of text.
+    Cras in dui ullamcorper, dignissim urna tempus, iaculis sem. Fusce dignissim tellus vitae mi luctus vehicula id ut leo. Mauris in mauris sapien. Vestibulum nec sem non est mollis fermentum molestie sed nibh. Morbi in ipsum lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris id augue sed nisi bibendum vehicula et quis quam. Donec sed porttitor quam.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/cat1.jpg
       text: >
-        Only applicable if you have a product in mind. In around 4 lines.   
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-    - image: /img/coffee-gear.png
+        Aenean maximus libero at augue lacinia bibendum. Nulla et sodales risus. Proin vehicula fermentum mi. Maecenas vel malesuada mi, facilisis dictum nisi. Morbi consequat, nulla sit amet cursus laoreet, dolor magna pulvinar massa, id laoreet neque lectus nec tortor. Nulla hendrerit nisi in odio tincidunt scelerisque.
+    - image: /img/cat2.jpg
       text: >
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-    - image: /img/tutorials.png
+        Integer hendrerit consequat tincidunt. Nam cursus elementum diam ut lacinia. Aenean ut mattis felis, quis maximus eros. Vestibulum suscipit turpis quam, non rutrum lorem egestas quis. Cras bibendum lacus eu lectus commodo pellentesque. Morbi consectetur posuere nisl, quis vestibulum mauris dignissim sed
+    - image: /img/cat3.jpg
       text: >
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-    - image: /img/meeting-space.png
+        Proin gravida, augue at vehicula semper, nulla neque vehicula lectus, ut placerat lacus arcu at nunc. Sed faucibus hendrerit ante, eget gravida massa. In hendrerit molestie velit, non imperdiet tellus facilisis at. Donec aliquet at ex a semper.
+    - image: /img/cat4.jpg
       text: >
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
-        Only applicable if you have a product in mind. In around 4 lines.
+        Cras egestas scelerisque sapien, vitae volutpat ipsum porta non. In dignissim pellentesque bibendum.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
