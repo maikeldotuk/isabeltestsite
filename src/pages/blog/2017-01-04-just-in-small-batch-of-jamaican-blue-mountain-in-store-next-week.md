@@ -8,6 +8,10 @@ tags:
   - kill me now
   - goodbye
 ---
+Bla, let's put a cute lion
+
+![Schizophrenic cat](/img/cat1.jpg "Schizophrenic cat")
+
 More chatter about coffee and about how am I going to kill the Amazon Prime Now delivery guy if he doesn't deliver my food and coffee soon. 
 
 ## A little history
