@@ -54,19 +54,20 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: 'More text, yet I''m not sure where this goes'
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: >-
+    Integer hendrerit consequat tincidunt. Nam cursus elementum diam ut lacinia.
+    Aenean ut mattis felis, quis maximus eros. Vestibulum suscipit turpis quam,
+    non rutrum lorem egestas quis. Cras bibendum lacus eu lectus commodo
+    pellentesque. Morbi consectetur posuere nisl, quis vestibulum mauris
+    dignissim sed
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Mehhhhhhhhhhhhhhhhhhhhhhhh
+    image: /img/cat2.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Mehasasdasdasr2qwerwerw
+    image: /img/blog-index.jpg
   image3:
-    alt: Coffee beans
+    alt: more cofeee
     image: /img/jumbotron.jpg
 ---
 
