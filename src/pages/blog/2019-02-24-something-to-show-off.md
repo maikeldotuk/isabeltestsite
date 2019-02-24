@@ -10,6 +10,4 @@ description: This is just a description of the content
 
 Subtitle
 
-
-
 ![Coffee](/img/blog-index.jpg "Coffee Mocha machine")
