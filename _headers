@@ -2,3 +2,6 @@
 for = "/static/*"
 [headers.values]
 Cache-Control = "public, max-age=360000"
+
+# Redirect default Netlify subdomain to primary domain
+http://notjustmakingupthenumbers.netlify.com/* http://notjustmakingupthenumbers.maikel.tech/:splat 301!
