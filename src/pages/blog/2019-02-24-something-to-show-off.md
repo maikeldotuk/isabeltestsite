@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Something to show off
-date: 2019-02-24T17:31:27.936Z
+date: 2019-02-23T17:31:27.936Z
 description: This is just a description of the content
 ---
 # Title
