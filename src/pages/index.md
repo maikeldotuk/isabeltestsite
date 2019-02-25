@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/home-jumbotron.jpg
+image: /img/australia-new-zealand-61-of-115.jpg
 heading: Numbers that never lie
 subheading: Some fancy slogan of Isabel's liking
 mainpitch:
