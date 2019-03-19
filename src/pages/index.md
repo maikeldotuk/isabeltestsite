@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/charlotte-coneybeer-108074-unsplash.jpg
+image: /img/quilt-texture-1549704.jpg
 heading: Numbers that never lie
 subheading: Some fancy slogan of Isabel's liking
 mainpitch:
