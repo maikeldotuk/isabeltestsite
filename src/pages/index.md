@@ -3,7 +3,7 @@ templateKey: index-page
 title: Not Just Making Up The Numbers
 image: /img/quilt-texture-1549704.jpg
 heading: Numbers that never lie
-subheading: Data driven musings on social and political issues
+subheading: Data driven reflections on social and political issues
 mainpitch:
   title: This is the Main Pitch.
   description: >
