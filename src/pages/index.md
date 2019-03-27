@@ -41,18 +41,10 @@ intro:
       text: What's going on with UK party politics?
     - image: /img/bernard-hermant-541485-unsplash.jpg
       text: Does trust in government matter?
-    - image: /img/cat3.jpg
-      text: >
-        Proin gravida, augue at vehicula semper, nulla neque vehicula lectus, ut
-        placerat lacus arcu at nunc. Sed faucibus hendrerit ante, eget gravida
-        massa. In hendrerit molestie velit, non imperdiet tellus facilisis at.
-        Donec aliquet at ex a semper.
-    - image: /img/cat4.jpg
-      text: >
-        Cras egestas scelerisque sapien, vitae volutpat ipsum porta non. In
-        dignissim pellentesque bibendum.
-    - image: /img/stockvault-the-big-data-deluge180433.jpg
-      text: We are surrounded by data.
+    - image: /img/monica-melton-469466-unsplash.jpg
+      text: Why are women's voices still not heard?
+    - image: /img/jon-cellier-1243471-unsplash.jpg
+      text: How bad is economic inequality?
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
