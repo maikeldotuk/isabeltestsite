@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/marcello-gennari-768083-unsplash.jpg
+image: /img/abstractbackground_stockvault02.png
 heading: Numbers that never lie
 subheading: Data driven reflections on social and political issues
 mainpitch:
