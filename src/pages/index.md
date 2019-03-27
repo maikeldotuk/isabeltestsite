@@ -39,12 +39,12 @@ intro:
   blurbs:
     - image: /img/thomas-kelley-136961-unsplash.jpg
       text: What's going on with UK party politics?
-    - image: /img/bernard-hermant-541485-unsplash.jpg
-      text: Does trust in government matter?
-    - image: /img/monica-melton-469466-unsplash.jpg
-      text: Why are women's voices still not heard?
     - image: /img/jon-cellier-1243471-unsplash.jpg
       text: How bad is economic inequality?
+    - image: /img/monica-melton-469466-unsplash.jpg
+      text: Why are women's voices still not heard?
+    - image: /img/bernard-hermant-541485-unsplash.jpg
+      text: Does trust in government matter?
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
