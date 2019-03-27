@@ -5,21 +5,8 @@ image: /img/abstractbackground_stockvault02.png
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
-  title: Complex questions in a complex world
-  description: >-
-    I spend an awful lot of time wondering about the "big" issues we face in
-    politics and society today. Unfortunately, I very rarely come up with
-    anything even close to an answer to some of the things that trouble me the
-    most: 
-
-
-    We are doing a disservice to everyone if we pretend there are easy answers
-    to some of the most serious political and social questions facing the world
-    today.
-
-
-    So why not look at what the data says? Why not start with some hard
-    evidence, instead of a rigid dogma into which you'd like to fit the facts?
+  title: The value of data
+  description: 'We live in a complex world.  '
 description: So here are a few things you might find across the website
 intro:
   blurbs:
