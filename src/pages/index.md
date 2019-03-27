@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/abstractbackground_stockvault02.png
+image: /img/quilt-texture-1549704.jpg
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
