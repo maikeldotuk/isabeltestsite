@@ -64,7 +64,7 @@ main:
     image: /img/cat2.jpg
   image2:
     alt: Mehasasdasdasr2qwerwerw
-    image: /img/blog-index.jpg
+    image: /img/roman-mager-59976-unsplash.jpg
   image3:
     alt: more cofeee
     image: /img/jumbotron.jpg
