@@ -1,12 +1,18 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/roman-mager-59976-unsplash.jpg
-heading: What you might find here
+image: /img/abstractbackground_stockvault02.png
+heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
   title: Complex questions in a complex world
   description: >-
+    I spend an awful lot of time wondering about the "big" issues we face in
+    politics and society today. Unfortunately, I very rarely come up with
+    anything even close to an answer to some of the things that trouble me the
+    most: 
+
+
     We are doing a disservice to everyone if we pretend there are easy answers
     to some of the most serious political and social questions facing the world
     today.
