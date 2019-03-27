@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/abstractbackground_stockvault02.png
+image: /img/roman-mager-59976-unsplash.jpg
 heading: Numbers that never lie
 subheading: Data driven reflections on social and political issues
 mainpitch:
