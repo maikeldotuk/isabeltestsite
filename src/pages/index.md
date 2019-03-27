@@ -46,6 +46,8 @@ intro:
       text: >
         Cras egestas scelerisque sapien, vitae volutpat ipsum porta non. In
         dignissim pellentesque bibendum.
+    - image: /img/stockvault-the-big-data-deluge180433.jpg
+      text: We are surrounded by data.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
