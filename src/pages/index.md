@@ -1,24 +1,20 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/abstractbackground_stockvault02.png
-heading: Numbers that never lie
+image: /img/roman-mager-59976-unsplash.jpg
+heading: What you might find here
 subheading: Data driven reflections on social and political issues
 mainpitch:
-  title: This is the Main Pitch.
+  title: Complex questions in a complex world
   description: >-
-    There's a lot of data in the world today. and a lot of stories about a lot
-    of data. We are constantly reminded that we 
+    We are doing a disservice to everyone if we pretend there are easy answers
+    to some of the most serious political and social questions facing the world
+    today.
 
 
-    And data isn't just 
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra
-  tortor tincidunt, tincidunt odio sed, ullamcorper leo. Donec dignissim sapien
-  vel gravida faucibus. Aliquam erat volutpat. Nulla facilisi. Mauris hendrerit
-  at augue aliquam ultrices. Donec quis augue et lectus iaculis scelerisque. Nam
-  id vehicula est. In vel ipsum eget eros fringilla ornare at placerat est. In
-  hac habitasse platea dictumst. Donec bibendum eu felis et scelerisque.
+    So why not look at what the data says? Why not start with some hard
+    evidence, instead of a rigid dogma into which you'd like to fit the facts?
+description: So here are a few things you might find across the website
 intro:
   blurbs:
     - image: /img/cat1.jpg
