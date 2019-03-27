@@ -6,13 +6,12 @@ heading: Numbers that never lie
 subheading: Data driven reflections on social and political issues
 mainpitch:
   title: This is the Main Pitch.
-  description: >
-    Cras in dui ullamcorper, dignissim urna tempus, iaculis sem. Fusce dignissim
-    tellus vitae mi luctus vehicula id ut leo. Mauris in mauris sapien.
-    Vestibulum nec sem non est mollis fermentum molestie sed nibh. Morbi in
-    ipsum lorem. Vestibulum ante ipsum primis in faucibus orci luctus et
-    ultrices posuere cubilia Curae; Mauris id augue sed nisi bibendum vehicula
-    et quis quam. Donec sed porttitor quam.
+  description: >-
+    There's a lot of data in the world today. and a lot of stories about a lot
+    of data. We are constantly reminded that we 
+
+
+    And data isn't just 
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra
   tortor tincidunt, tincidunt odio sed, ullamcorper leo. Donec dignissim sapien
