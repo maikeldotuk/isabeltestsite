@@ -6,7 +6,20 @@ heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
   title: The value of data
-  description: 'We live in a complex world.  '
+  description: >+
+    We live in a complex world. 
+
+
+    We are often told that the major issues that face our societies today have
+    simple solutions. That 
+
+
+    Aenean maximus libero at augue lacinia bibendum. Nulla et sodales risus.
+    Proin vehicula fermentum mi. Maecenas vel malesuada mi, facilisis dictum
+    nisi. Morbi consequat, nulla sit amet cursus laoreet, dolor magna pulvinar
+    massa, id laoreet neque lectus nec tortor. Nulla hendrerit nisi in odio
+    tincidunt scelerisque.
+
 description: So here are a few things you might find across the website
 intro:
   blurbs:
