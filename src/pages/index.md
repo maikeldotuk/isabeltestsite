@@ -7,29 +7,38 @@ subheading: Data driven reflections on social and political issues
 mainpitch:
   title: The value of data
   description: >+
-    We live in a complex world. 
+    The world is a frustratingly complicated place. Even without starting to try
+    to understand the great scientific or philosophical questions of our time,
+    we can see that things are not straightforward. Especially when we want
+    different people from diverse groups and backgrounds to live together as a
+    harmonious society. And even more so if we want that society to ensure that
+    all its members are sufficiently looked after; if we want them to have an
+    acceptable standard of living, healthcare and education. 
 
 
-    We are often told that the major issues that face our societies today have
-    simple solutions. That 
+    There are, unfortunately, plenty of people who are willing to line up to
+    promise simple solutions to complex problems. Who are happy to point the
+    figure of blame in a direction that suits them and dismiss arguments they
+    find inconvenient. And while that might allow them to feel good about
+    themselves, it is unlikely to help anyone who really needs it.
 
 
-    Aenean maximus libero at augue lacinia bibendum. Nulla et sodales risus.
-    Proin vehicula fermentum mi. Maecenas vel malesuada mi, facilisis dictum
-    nisi. Morbi consequat, nulla sit amet cursus laoreet, dolor magna pulvinar
-    massa, id laoreet neque lectus nec tortor. Nulla hendrerit nisi in odio
-    tincidunt scelerisque.
+    I may be hopelessly naive on the matter, but I've always thought that
+    evidence might actually be a better place to start. That we might want to
+    find out what is really happening in the world before we diagnose and
+    attempt to treat the problems we see. And there's a lot of data out there
+    that can help us. Data about how people live their lives, how they interact
+    with each other and the governments that represent them, and how they
+    perceive the world around them. Data that is often unused or underused to
+    help us make sense of the complicated world around us.
 
-description: So here are a few things you might find across the website
+description: >-
+  This is therefore my attempt to use little bits of data to piece together my
+  thoughts on the issues that are important to me
 intro:
   blurbs:
-    - image: /img/cat1.jpg
-      text: >
-        Aenean maximus libero at augue lacinia bibendum. Nulla et sodales risus.
-        Proin vehicula fermentum mi. Maecenas vel malesuada mi, facilisis dictum
-        nisi. Morbi consequat, nulla sit amet cursus laoreet, dolor magna
-        pulvinar massa, id laoreet neque lectus nec tortor. Nulla hendrerit nisi
-        in odio tincidunt scelerisque.
+    - image: /img/thomas-kelley-136961-unsplash.jpg
+      text: What's gone so wrong with UK politics?
     - image: /img/cat2.jpg
       text: >
         Integer hendrerit consequat tincidunt. Nam cursus elementum diam ut
