@@ -38,14 +38,9 @@ description: >-
 intro:
   blurbs:
     - image: /img/thomas-kelley-136961-unsplash.jpg
-      text: What's gone so wrong with UK politics?
-    - image: /img/cat2.jpg
-      text: >
-        Integer hendrerit consequat tincidunt. Nam cursus elementum diam ut
-        lacinia. Aenean ut mattis felis, quis maximus eros. Vestibulum suscipit
-        turpis quam, non rutrum lorem egestas quis. Cras bibendum lacus eu
-        lectus commodo pellentesque. Morbi consectetur posuere nisl, quis
-        vestibulum mauris dignissim sed
+      text: What's going on with UK party politics?
+    - image: /img/bernard-hermant-541485-unsplash.jpg
+      text: Does trust in government matter?
     - image: /img/cat3.jpg
       text: >
         Proin gravida, augue at vehicula semper, nulla neque vehicula lectus, ut
