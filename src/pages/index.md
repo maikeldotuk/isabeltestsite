@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/pawel-czerwinski-764006-unsplash.jpg
+image: /img/crissy-jarvis-1316073-unsplash.jpg
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
-  title: The value of data
+  title: Numbers matter
   description: >+
     The world is a frustratingly complicated place. Even without starting to try
     to understand the great scientific or philosophical questions of our time,
