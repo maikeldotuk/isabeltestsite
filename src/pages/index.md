@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/jakob-owens-588807-unsplash.jpg
+image: /img/pawel-czerwinski-764006-unsplash.jpg
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
