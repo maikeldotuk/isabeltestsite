@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/andrew-neel-178721-unsplash.jpg
+image: /img/geometricpattern_08.png
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
