@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/geometricpattern_08.png
+image: /img/jakob-owens-588807-unsplash.jpg
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
