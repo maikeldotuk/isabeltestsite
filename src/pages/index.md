@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/eckhard-hoehmann-1406367-unsplash.jpg
+image: /img/samuel-zeller-699374-unsplash.jpg
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
