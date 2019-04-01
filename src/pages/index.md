@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Not Just Making Up The Numbers
-image: /img/samuel-zeller-699374-unsplash.jpg
+image: /img/abstractbackground_stockvault02.png
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
