@@ -5,7 +5,7 @@ image: /img/gayatri-malhotra-1278082-unsplash.jpg
 heading: Research areas
 subheading: Data driven reflections on social and political issues
 mainpitch:
-  title: Numbers matter
+  title: Evidence matters
   description: >+
     The world is a frustratingly complicated place. Even without starting to try
     to understand the great scientific or philosophical questions of our time,
